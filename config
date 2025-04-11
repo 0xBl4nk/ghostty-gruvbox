@@ -1,1 +1,11 @@
+# Font
+font-family = JetBrains Mono
+font-size = 14
+
+# Padding
+window-padding-x = 25
+window-padding-y = 25
+window-step-resize = false
+
+# Ghostty-gruvbox
 theme = ghostty-gruvbox

@@ -1,6 +1,6 @@
 # Gruvbox theme for Ghostty
 
-## Nice extra settings:
+## Nice extra settings (OBS: If you don't like, just remove-it!):
 
 ```yaml
 # Font
